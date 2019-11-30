@@ -1,0 +1,14 @@
+{
+  "name": "unsplash-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/adamgparsons/unsplash-search.git",
+  "author": "adamgparsons <adamgeorgeparsons@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
